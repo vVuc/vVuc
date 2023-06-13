@@ -1,4 +1,4 @@
-<div>
+<div style="display: inline_block"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=vVuc&rank_icon=github">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVuc&layout=compact">
 </div>
