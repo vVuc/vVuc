@@ -1,6 +1,6 @@
-<div style="display: inline_block"><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vVuc&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vVuc&layout=compact)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=vVuc&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVuc&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
